@@ -25,3 +25,6 @@ linked.
 ## Short conclusion:
 
  Serialization is a technique for describing a data structure with information about the structure itself embedded in the data. JSON is a lightweight type of serialization, e.g., ```{prop:{prop:1}}```. Transfer that to another computer and minimally you can then work with that object's properties with the same basic relationship of ```prop.prop```
+
+
+<a href="https://ibb.co/eDaAbx"><img style="width: 100%"  src="https://preview.ibb.co/mHy7Oc/diagram.png" alt="diagram" border="0"></a>
