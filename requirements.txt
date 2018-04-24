@@ -1,0 +1,13 @@
+factory-boy==2.10.0 
+Faker==0.8.13
+Flask==0.12.2
+flask-marshmallow==0.8.0
+Flask-SQLAlchemy==2.3.2
+Jinja2==2.10
+marshmallow==2.15.0
+PyMySQL==0.8.0 
+PyJWT==1.6.1
+pytest==3.5.0
+SQLAlchemy==1.2.7
+SQLAlchemy-Utils==0.33.2
+Werkzeug==0.14.1

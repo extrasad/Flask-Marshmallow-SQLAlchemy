@@ -1,0 +1,29 @@
+# Compiled source #
+
+###################
+*.rsa
+*.rsa.pub
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.map
+# *.png
+*.jpg
+*.db
+
+package-lock.json
+
+migrations/
+env/
+node_modules/
+/__pycache__/
+*.pyc
+*.map
+# *.png
+*.jpg
+*.db
+.vscode
