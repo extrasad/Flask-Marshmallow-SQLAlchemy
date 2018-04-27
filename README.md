@@ -33,3 +33,16 @@ Serialization is a technique for describing a data structure with information ab
 ## Schema.org is god, remember
 
 This project uses schema.org as the main resource for the standardization of data types in a schema
+
+### Continuous Build & Deployment
+
+```sh
+chmod +x ./ci/setup.sh
+```
+
+```sh
+./ci/setup.sh
+```
+
+### Database
+We are using MySQL DB.
